@@ -1,0 +1,11 @@
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\bin\Debug\netcoreapp1.1\ArduinoServer.deps.json
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\bin\Debug\netcoreapp1.1\ArduinoServer.runtimeconfig.json
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\bin\Debug\netcoreapp1.1\ArduinoServer.runtimeconfig.dev.json
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\bin\Debug\netcoreapp1.1\ArduinoServer.dll
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\obj\Debug\netcoreapp1.1\ArduinoServer.csprojResolveAssemblyReference.cache
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\obj\Debug\netcoreapp1.1\ArduinoServer.AssemblyInfo.cs
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\bin\Debug\netcoreapp1.1\ArduinoServer.pdb
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\obj\Debug\netcoreapp1.1\ArduinoServer.dll
+c:\users\администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\obj\Debug\netcoreapp1.1\ArduinoServer.pdb
+C:\Users\Администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\obj\Debug\netcoreapp1.1\ArduinoServer.Properties.Resources.resources
+C:\Users\Администратор\documents\visual studio 2017\Projects\ArduinoServer\ArduinoServer\obj\Debug\netcoreapp1.1\ArduinoServer.csproj.GenerateResource.Cache
